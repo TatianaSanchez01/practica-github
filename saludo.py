@@ -1,4 +1,4 @@
 def saludar(nombre):
-    return f"Hola, {nombre}. Este código fue modificado en GitHub."
+    return f"Hola, {nombre}. Esta funcionalidad fue desarrollada en una rama."
 
 print(saludar("Tatiana"))
